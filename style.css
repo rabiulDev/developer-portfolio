@@ -6,8 +6,9 @@
 }
 .container {
   max-width: 1200px;
-  /* padding: 30px; */
+
   margin: 0 auto;
+  margin-bottom: 40px;
 }
 .font-color {
   color: #ffad5a;
@@ -51,4 +52,43 @@
 }
 .header-image img {
   width: 80%;
+}
+
+/* ///////////////  mission section /////////////////// */
+
+.mission-title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 35px;
+}
+
+.mission-cards-item {
+  width: 35%;
+  padding: 30px;
+  margin: 10px;
+}
+#mission {
+  background-color: rgba(79, 157, 166, 0.1);
+  border-radius: 26px;
+}
+#vission {
+  background-color: rgba(255, 89, 89, 0.1);
+  border-radius: 26px;
+}
+#goals {
+  background-color: #fff4d6;
+  border-radius: 26px;
+}
+.mission-cards {
+  align-items: center;
+  justify-content: center;
+}
+.mission-cards-item img {
+  width: 40%;
+}
+.mission-cards-item h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 18px;
 }
