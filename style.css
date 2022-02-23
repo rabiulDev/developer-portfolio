@@ -8,7 +8,7 @@
   max-width: 1200px;
 
   margin: 0 auto;
-  margin-bottom: 40px;
+  margin-bottom: 120px;
 }
 .font-color {
   color: #ffad5a;
@@ -91,4 +91,42 @@
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 18px;
+}
+
+.development-content {
+  padding: 30px;
+}
+.content-img img {
+  width: 70%;
+}
+
+.content-title h3 {
+  font-size: 36px;
+  font-weight: 700;
+
+  margin-bottom: 40px;
+}
+
+.project-img {
+  text-align: right;
+}
+
+.footer {
+  background-color: #0b0d17;
+  text-align: center;
+}
+.footer h3 {
+  color: white;
+  font-size: 36px;
+  padding: 20px 0px;
+  font-family: "Yeseva One", cursive;
+}
+
+.footer span {
+  color: #ff5959;
+}
+.footer p {
+  font-size: 14px;
+  color: #d9dbe1;
+  padding-bottom: 20px;
 }
